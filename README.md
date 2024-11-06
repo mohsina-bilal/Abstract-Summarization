@@ -13,7 +13,7 @@ This model leverages TensorFlow and TensorFlow Hub embeddings to predict researc
 To set up the project, clone the repository, and install the required libraries. Set up a virtual environment using bash to avoid conflicts:
 
 ```
-git clone <[mohsina-bilal/Abstract-Summarization](https://github.com/mohsina-bilal/Abstract-Summarization
+git clone <(https://github.com/mohsina-bilal/Abstract-Summarization
 )>
 cd SkimLit
 python3 -m venv skimlit_env
